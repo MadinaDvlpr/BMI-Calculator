@@ -51,7 +51,7 @@ Download the git files or simply go to my portfolio here :</br>
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[![LinkedIn][linkedin-url]
+[LinkedIn][linkedin-url]
 [contributors-shield]: (https://img.shields.io/badge/1?label=CONTRIBUTORS&labelColor=%236B7176&color=%2361DBD1)
 [contributors-url]: https://github.com/Magda-dev
 [forks-shield]: https://img.shields.io/github/forks/othneildrew/Best-README-Template.svg?style=for-the-badge
