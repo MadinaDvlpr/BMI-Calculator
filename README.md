@@ -8,7 +8,7 @@
 <!-- HEADER README -->
 <div align="center">  
   <h1>BMI Calculator</h1></br></br>
-   <img margin-bottom="3em" src="assets/img/img-header.png" alt="HEADER PROJECT" width="950" height="400">
+   <img margin-bottom="3em" src="assets/img/bmi-md.png" alt="HEADER PROJECT" width="950" height="400">
 
 
 | 👩‍💼Contributors      |📅 Release Date             |🛠    Build              |🧪 Social  |
